@@ -6,17 +6,23 @@ I have a background in Communication and International Relations. I'm open to co
 
 
 ## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,bootstrap,tailwind&theme=light)](https://skillicons.dev)
+[![Programming Skills](https://skillicons.dev/icons?i=html,css,php,bootstrap,tailwind&theme=light)](https://skillicons.dev)
 
 ## Multimedia Design Tools
-[![My Skills](https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,audition,premiere&theme=light)](https://skillicons.dev)
+[![Design Skills](https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,audition,premiere&theme=light)](https://skillicons.dev)
 
-
-### Looking forward to learn and practice:
+### :computer: Looking forward to learn and practice:
 - Javascript
 - React
+- Liquid / Hydrogen
 - Back-End Stack and Programming Languages
 - UX Design
+
+📫 FOR FREELANCE WORK REACH ME OUT [HERE](mailto:leonel\@ducho.co)
+
+
+[![Chimp](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Chimpanzee_seated_at_typewriter.jpg/640px-Chimpanzee_seated_at_typewriter.jpg)]
+
 
 <!-- **leonel-acosta/leonel-acosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

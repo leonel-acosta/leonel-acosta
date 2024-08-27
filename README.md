@@ -6,10 +6,10 @@ I have a background in Communication and International Relations. I'm open to co
 
 
 ## Programming Languages
-[![Programming Skills](https://skillicons.dev/icons?i=html,css,php,bootstrap,tailwind&theme=light)]
+![Programming Skills](https://skillicons.dev/icons?i=html,css,php,bootstrap,tailwind&theme=light)
 
 ## Multimedia Design Tools
-[![Design Skills](https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,audition,premiere&theme=light)]
+![Design Skills](https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,audition,premiere&theme=light)
 
 ### :computer: Looking forward to learn and practice:
 - Javascript

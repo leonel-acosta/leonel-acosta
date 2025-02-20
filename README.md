@@ -15,7 +15,7 @@ With a background in **Communication and International Relations**, I bring a us
 - Adobe Creative Suite  
 
 ## 📫 Get in Touch  
-[Your LinkedIn](#) | [Your GitHub](#) | [Your Email](#)  
+[Your LinkedIn](#https://www.linkedin.com/in/leonel-agustin-acosta/) | [Your GitHub](https://github.com/leonel-acosta/) | [Your Email]((mailto:leonel\@ducho.co))  
 
 ### :computer: Looking forward to learn and practice:
 - Javascript
@@ -25,5 +25,3 @@ With a background in **Communication and International Relations**, I bring a us
 - UX Design
 
 📫 FOR FREELANCE WORK REACH ME OUT [HERE](mailto:leonel\@ducho.co)
-
-[![Chimp](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Chimpanzee_seated_at_typewriter.jpg/640px-Chimpanzee_seated_at_typewriter.jpg)]

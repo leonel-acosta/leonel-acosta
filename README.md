@@ -1,15 +1,21 @@
-# Hola, I'm Leo 👋
+# Hi there! 👋 I'm Leonel  
 
-I'm a Web Designer and Front-End Web Developer based in Berlin. I'm sharpening my Full-Stack Web Development skills at Spiced Academy!
+I'm a freelance **Web Designer & Front-End Developer** based in **Berlin**. I recently completed a **Web Development Bootcamp at Spiced Academy** to strengthen my skills as a **Full-Stack Developer**.  
 
-I have a background in Communication and International Relations. I'm open to collaborating on projects related to culture, migration, and social innovation.
+With a background in **Communication and International Relations**, I bring a user-centered and problem-solving mindset to web development. I’m passionate about crafting intuitive, accessible, and visually engaging digital experiences.  
 
+🚀 **Open to collaborations** on projects related to **culture, migration, and social innovation**—let's build something meaningful together!  
 
-## Programming Languages
-![Programming Skills](https://skillicons.dev/icons?i=html,css,php,bootstrap,tailwind&theme=light)
+## 🔧 Tech Stack  
+- **Languages & Frameworks:** HTML, CSS, JavaScript, React, Next.js, PHP, Liquid 
+- **Backend & Databases:** MongoDB, Express  
 
-## Multimedia Design Tools
-![Design Skills](https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,audition,premiere&theme=light)
+## 🎨 Multimedia Tools  
+- Figma  
+- Adobe Creative Suite  
+
+## 📫 Get in Touch  
+[Your LinkedIn](#) | [Your GitHub](#) | [Your Email](#)  
 
 ### :computer: Looking forward to learn and practice:
 - Javascript
@@ -20,20 +26,4 @@ I have a background in Communication and International Relations. I'm open to co
 
 📫 FOR FREELANCE WORK REACH ME OUT [HERE](mailto:leonel\@ducho.co)
 
-
 [![Chimp](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Chimpanzee_seated_at_typewriter.jpg/640px-Chimpanzee_seated_at_typewriter.jpg)]
-
-
-<!-- **leonel-acosta/leonel-acosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -16,7 +16,7 @@ With a background in **Communication and International Relations**, I bring a us
 - Adobe Creative Suite  
 
 ## 📫 Get in Touch  
-[LinkedIn](https://www.linkedin.com/in/leonel-agustin-acosta/) | [GitHub](https://github.com/leonel-acosta/) | [Email]((mailto:leonel\@ducho.co))  
+[LinkedIn](https://www.linkedin.com/in/leonel-agustin-acosta/) | [GitHub](https://github.com/leonel-acosta/) | [Email](mailto:leonel\@ducho.co)) 
 
 ### :computer: Looking forward to learn and practice:
 - Javascript

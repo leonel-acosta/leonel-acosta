@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Leonel  
+# Hi there! 👋 I'm Leo
 
 I'm a freelance **Web Designer & Front-End Developer** based in **Berlin**. I recently completed a **Web Development Bootcamp at Spiced Academy** to strengthen my skills as a **Full-Stack Developer**.  
 
@@ -18,5 +18,5 @@ With a background in **Communication and International Relations**, I bring a us
 - Adobe Creative Suite  
 
 ## 📫 Get in Touch  
-[LinkedIn](https://www.linkedin.com/in/leonel-agustin-acosta/) | [GitHub](https://github.com/leonel-acosta/) | [Email](mailto:leonel\@ducho.co)) 
+[LinkedIn](https://www.linkedin.com/in/leonel-agustin-acosta/) | [GitHub](https://github.com/leonel-acosta/) | [Email](mailto:leonel\@ducho.co)
 

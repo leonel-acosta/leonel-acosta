@@ -8,14 +8,15 @@ With a background in **Communication and International Relations**, I bring a us
 
 ## 🔧 Tech Stack  
 - **Languages & Frameworks:** HTML, CSS, JavaScript, React, Next.js, PHP, Liquid 
-- **Backend & Databases:** MongoDB, Express  
+- **Backend & Databases:** MongoDB, Express
+- **CMS:** Wordpress, Shopify  
 
 ## 🎨 Multimedia Tools  
 - Figma  
 - Adobe Creative Suite  
 
 ## 📫 Get in Touch  
-[Your LinkedIn](#https://www.linkedin.com/in/leonel-agustin-acosta/) | [Your GitHub](https://github.com/leonel-acosta/) | [Your Email]((mailto:leonel\@ducho.co))  
+[LinkedIn](https://www.linkedin.com/in/leonel-agustin-acosta/) | [GitHub](https://github.com/leonel-acosta/) | [Email]((mailto:leonel\@ducho.co))  
 
 ### :computer: Looking forward to learn and practice:
 - Javascript

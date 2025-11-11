@@ -9,7 +9,7 @@ With a background in **Communications and International Relations**, I bring a u
 🚀 **Open to collaborations** on projects related to **culture, migration, environment, and social innovation** — let's build something meaningful together!  
 
 ## 🔧 Tech Stack  
-- **Languages & Frameworks:** HTML, CSS, JavaScript, React, Next.js, PHP, Liquid, JSON 
+- **Languages & Frameworks:** HTML, CSS, JavaScript, TypeScript, React, Next.js, PHP, Liquid, JSON 
 - **Backend & Databases:** MongoDB, Express
 - **CMS:** WordPress, Shopify  
 
